@@ -1,4 +1,4 @@
-# 🍔🍜 Food-101 Image Classifier using Transfer Learning
+# 🍔🍜 Food Image Classifier and Calorie Intake Calculator 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Culinary_fusion_pizza.jpg/320px-Culinary_fusion_pizza.jpg" width="200" />
